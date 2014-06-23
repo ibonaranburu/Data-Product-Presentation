@@ -8,4 +8,6 @@ After a presentation of the application is disigned using slidify. The presentat
 
 http://ibonaranburu.github.io/Data-Product-Presentation/index.html
 
+or 
 
+http://rpubs.com/ibonaranburu/21292
